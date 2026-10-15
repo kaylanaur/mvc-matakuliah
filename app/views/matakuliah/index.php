@@ -45,5 +45,6 @@
         </tr>
         <?php endforeach; ?>
     </table>
+    <p>Total mata kuliah: <?= count($daftar) ?></p>
 </body>
 </html>
